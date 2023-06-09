@@ -9,7 +9,7 @@
 			"name": "Positive",
 			"item": [
 				{
-					"name": "BúsquedaPokemon",
+					"name": "TestPositiveBusqPokemon",
 					"event": [
 						{
 							"listen": "test",
@@ -56,7 +56,7 @@
 					"response": []
 				},
 				{
-					"name": "BúsquedaMovimientoPoke",
+					"name": "TestPositiveBusqMovimientoPoke",
 					"event": [
 						{
 							"listen": "test",
@@ -220,7 +220,7 @@
 					"response": []
 				},
 				{
-					"name": "BusquedaMovimientoPoke2",
+					"name": "TestPositiveBusqMovimientoPoke2",
 					"event": [
 						{
 							"listen": "test",
@@ -280,7 +280,7 @@
 			"name": "Negative",
 			"item": [
 				{
-					"name": "Pekemon no existente",
+					"name": "TestNegativeBusqPokemon",
 					"event": [
 						{
 							"listen": "test",
